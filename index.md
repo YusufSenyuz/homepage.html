@@ -40,11 +40,15 @@
                  <td>0</td>
                  <td>1</td>
                  <td>5</td>
+                 
+                 
+                 
+                 
                </tr>
                <tr class="pos">
                  <td>4</td>
                  <td>Burak Berkay Kıymık</td>
-                 <td>1</td>
+                 <td>1</td> 
                  <td>0</td>
                  <td>0</td>
                  <td>0</td>
